@@ -28,13 +28,13 @@
       "name": "Familiarization with Excitation and Emission Spectra, Mirror Image Relation and Stokes Shift",
       "short-name": "stokes-shift",
       "repo": "https://github.com/virtual-labs/exp-stokes-shift-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Demonstration of Solvent Effects on Fluorescence Spectra of a Fluorophore",
-      "short-name": "emission-spectra-fluorophore",
-      "repo": "https://github.com/virtual-labs/exp-emission-spectra-fluorophore-iiith",
+      "short-name": "fluorophore",
+      "repo": "https://github.com/virtual-labs/exp-fluorophore-iiith",
       "tag": "v1.0.0",
       "deploy": true
     },
@@ -56,14 +56,14 @@
       "name": "Relationship between the Concentration of a Fluorophore and its Fluorescence Intensity: Determination of Unknown Concentration of an Analyte",
       "short-name": "concentration-analyte",
       "repo": "https://github.com/virtual-labs/exp-concentration-analyte-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Determination of Fluorescence Quantum Yield of a Fluorophore",
       "short-name": "fluorescence-quantum-yield",
       "repo": "https://github.com/virtual-labs/exp-fluorescence-quantum-yield-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -101,5 +101,5 @@
   },
   "exp_name": "Effects of Excimer and Exciplex Formations on Fluorescence Emission",
   "exp_short_name": "fluorescence-emission",
-  "version": "v0.1.0"
+  "version": "v0.2.0"
 }

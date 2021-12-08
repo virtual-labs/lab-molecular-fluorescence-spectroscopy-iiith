@@ -1,94 +1,105 @@
 {
-    "broadArea": {
-        "name": "Chemical Sciences",
-        "link": "https://www.vlab.co.in/broad-area-chemical-sciences"
-    },
-    "lab": "Molecular Fluorescence Spectroscopy",
-    "deployLab": true,
-    "phase": 2,
-    "collegeName": "IIITH",
-    "baseUrl": "mfs-iiith.vlabs.ac.in",
-    "introduction": "This lab is about molecular fluorescence spectroscopy. In molecular fluorescence spectroscopy, a molecule is first irradiated with ultraviolet (UV) or visible radiation and then the emission of light of longer wavelengths is detected. Many common materials like certain minerals, human teeth, riboflavin (vitamin B2), etc. fluoresce, emitting visible light after absorbing ultraviolet light. Fluorescence spectroscopy is a technique of considerable practical importance. Measurements of fluorescence can provide important information regarding the molecule, its quantity and local environment, etc. Fluorescence spectroscopy finds widespread use in basic and applied researches of chemical and biological sciences fields of sensing, environmental monitoring, DNA sequencing, cell identification and sorting in flow cytometry, and so on. Analytical techniques based on fluorescence can yield low detection limits and are very sensitive (approach that of electrochemical methods), highly specific, often economical and relatively simple to perform. The high specificity arises from the fact that fluorophores exhibit specific excitation (absorption) and emission (fluorescence) wavelengths. In crime investigation, fingerprints can be revealed by their yellow fluorescence, when argon-ion lasers are used to flood an area with intense blue light. </br> </br> Excitation of all molecules does not produce fluorescence. Several factors affect the fluorescence. For example, molecules that are aromatic, polycyclic aromatic or contain multiple-conjugated double bonds with a high degree of resonance stability generally fluoresce. Substituents such as –NH2, –OH, –F, –OCH3, –NHCH3, and –N(CH3)2 groups often enhance fluorescence whereas –Cl, –Br, –I, –NHCOCH3, –NO2, and –COOH groups decrease or quench fluorescence. Molecular rigidity or presence of fluorophore in glassy state or viscous solution enhances the fluorescence. Atoms are generally not fluorescent in condensed phases, except lanthanide elements. For example, europium and terbium ions are fluorescent. Fluorescence in these ions results from electronic transitions between f orbitals which are shielded from the solvent by higher field orbitals. These properties provide very useful information about the substance and may be exploited for many applications. </br></br>When fluorescence and UV-visible absorption methods are compared, fluorescence is usually more sensitive and very low limit of detection is achievable in this case. Because fewer fluorescing species exist than absorbing species in the ultraviolet-visible region, interference is less in fluorescence techniques. Further, in the fluorescence spectroscopy, the emission signal is compared electronically with a reference emission of zero, whereas in the the absorption spectroscopy, the comparison is made between the intensities of two quite high energy beams where a weakly absorbing signal may be lost in the instrument noise. In fluorescence techniques, a pair of wavelengths, excitation and emission, characterize the process instead of only one in the UV-Visible. Therefore, fluorescence is more selective also. However, UV-visible absorption spectroscopy is nearly universal and often more accurate. </br></br> RELEVANT TOPICS</br> Molecular energy levels; electronic transitions; molecular spectroscopy; Born-Oppenheimer approximation; fluorescence; Quantum yield; fluorescence quenching; Stern-Volmer plot; Beer-Lambert law.",
-    "experiments": [
-     {
+  "broadArea": {
+    "name": "Chemical Sciences",
+    "link": "https://www.vlab.co.in/broad-area-chemical-sciences"
+  },
+  "lab": "Molecular Fluorescence Spectroscopy",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "IIITH",
+  "baseUrl": "mfs-iiith.vlabs.ac.in",
+  "introduction": "This lab is about molecular fluorescence spectroscopy. In molecular fluorescence spectroscopy, a molecule is first irradiated with ultraviolet (UV) or visible radiation and then the emission of light of longer wavelengths is detected. Many common materials like certain minerals, human teeth, riboflavin (vitamin B2), etc. fluoresce, emitting visible light after absorbing ultraviolet light. Fluorescence spectroscopy is a technique of considerable practical importance. Measurements of fluorescence can provide important information regarding the molecule, its quantity and local environment, etc. Fluorescence spectroscopy finds widespread use in basic and applied researches of chemical and biological sciences fields of sensing, environmental monitoring, DNA sequencing, cell identification and sorting in flow cytometry, and so on. Analytical techniques based on fluorescence can yield low detection limits and are very sensitive (approach that of electrochemical methods), highly specific, often economical and relatively simple to perform. The high specificity arises from the fact that fluorophores exhibit specific excitation (absorption) and emission (fluorescence) wavelengths. In crime investigation, fingerprints can be revealed by their yellow fluorescence, when argon-ion lasers are used to flood an area with intense blue light. </br> </br> Excitation of all molecules does not produce fluorescence. Several factors affect the fluorescence. For example, molecules that are aromatic, polycyclic aromatic or contain multiple-conjugated double bonds with a high degree of resonance stability generally fluoresce. Substituents such as –NH2, –OH, –F, –OCH3, –NHCH3, and –N(CH3)2 groups often enhance fluorescence whereas –Cl, –Br, –I, –NHCOCH3, –NO2, and –COOH groups decrease or quench fluorescence. Molecular rigidity or presence of fluorophore in glassy state or viscous solution enhances the fluorescence. Atoms are generally not fluorescent in condensed phases, except lanthanide elements. For example, europium and terbium ions are fluorescent. Fluorescence in these ions results from electronic transitions between f orbitals which are shielded from the solvent by higher field orbitals. These properties provide very useful information about the substance and may be exploited for many applications. </br></br>When fluorescence and UV-visible absorption methods are compared, fluorescence is usually more sensitive and very low limit of detection is achievable in this case. Because fewer fluorescing species exist than absorbing species in the ultraviolet-visible region, interference is less in fluorescence techniques. Further, in the fluorescence spectroscopy, the emission signal is compared electronically with a reference emission of zero, whereas in the the absorption spectroscopy, the comparison is made between the intensities of two quite high energy beams where a weakly absorbing signal may be lost in the instrument noise. In fluorescence techniques, a pair of wavelengths, excitation and emission, characterize the process instead of only one in the UV-Visible. Therefore, fluorescence is more selective also. However, UV-visible absorption spectroscopy is nearly universal and often more accurate. </br></br> RELEVANT TOPICS</br> Molecular energy levels; electronic transitions; molecular spectroscopy; Born-Oppenheimer approximation; fluorescence; Quantum yield; fluorescence quenching; Stern-Volmer plot; Beer-Lambert law.",
+  "experiments": [
+    {
       "name": "Introduction to the fluorescence spectroscopy principle",
       "short-name": "fluorescence-spectroscopy-principle",
       "repo": "https://github.com/virtual-labs/exp-fluorescence-spectroscopy-principle-iiith",
       "tag": "v1.0.0",
       "deploy": true
-     },
-     {
+    },
+    {
       "name": "Familiarization with the fluorescence Instrumentation",
       "short-name": "fluorescence-instrumentation",
       "repo": "https://github.com/virtual-labs/exp-fluorescence-instrumentation-iiith",
       "tag": "v1.0.0",
       "deploy": true
-     },
-     {
+    },
+    {
       "name": "Familiarization with Excitation and Emission Spectra, Mirror Image Relation and Stokes Shift",
       "short-name": "stokes-shift",
       "repo": "https://github.com/virtual-labs/exp-stokes-shift-iiith",
       "tag": "v1.0.0",
       "deploy": true
-     },
-     {
+    },
+    {
       "name": "Demonstration of Solvent Effects on Fluorescence Spectra of a Fluorophore",
       "short-name": "emission-spectra-fluorophore",
       "repo": "https://github.com/virtual-labs/exp-emission-spectra-fluorophore-iiith",
       "tag": "v1.0.0",
       "deploy": true
-     },
-     {
+    },
+    {
       "name": "Demonstration of pH Effect on Fluorescence Excitation and Emission Spectra of a Fluorophore",
       "short-name": "emission-spectra-fluorophore",
       "repo": "https://github.com/virtual-labs/exp-emission-spectra-fluorophore-iiith",
       "tag": "v1.0.0",
       "deploy": true
-     },
-     {
+    },
+    {
       "name": "Effects of Fluorophore Concentration on Fluorescence Spectra: Inner Filter Effects",
       "short-name": "inner-filter-effects",
       "repo": "https://github.com/virtual-labs/exp-inner-filter-effects-iiith",
       "tag": "v1.0.0",
       "deploy": true
-     },
-     {
+    },
+    {
       "name": "Relationship between the Concentration of a Fluorophore and its Fluorescence Intensity: Determination of Unknown Concentration of an Analyte",
       "short-name": "concentration-analyte",
       "repo": "https://github.com/virtual-labs/exp-concentration-analyte-iiith",
       "tag": "v1.0.0",
       "deploy": true
-     },
-     {
+    },
+    {
       "name": "Determination of Fluorescence Quantum Yield of a Fluorophore",
       "short-name": "fluorescence-quantum-yield",
       "repo": "https://github.com/virtual-labs/exp-fluorescence-quantum-yield-iiith",
       "tag": "v1.0.0",
       "deploy": true
-     },
-     {
+    },
+    {
       "name": "Fluorescence Quenching and Stern-Volmer Plot: Estimation of the Quenching Constant from Stern-Volmer Plot",
       "short-name": "stern-volmer-plot",
       "repo": "https://github.com/virtual-labs/exp-stern-volmer-plot-iiith",
       "tag": "v1.0.0",
       "deploy": true
-     },
-     {
+    },
+    {
       "name": "Effects of Excimer and Exciplex Formations on Fluorescence Emission",
       "short-name": "fluorescence-emission",
       "repo": "https://github.com/virtual-labs/exp-fluorescence-emission-iiith",
       "tag": "v1.0.0",
       "deploy": true
-     }    
-    
-    ],
-    "targetAudience": {
-        "UG": ["Engineering Chemistry 1st year B. Tech. in Chemical / Materials / IT / Civil / Mech. / Electrical / Textile / Agricultural Engineering", "B. Pharm., Biotech., Biomed. Engg.", "B. Sc. (Hons.) in Chemistry/Phys./Biol./Biophys"],
-        "PG": ["Chemistry, Chemical/Materials/Biomedical Engg., Biotech & Pharm.", "Ph. D. Beginners"]
-    },
-    "objective": "This lab aims at demonstrating how to design absorption measurements in a spectrophotometer and how to use absorption spectroscopy as an analytical tool.",
-    "courseAlignment": {
-        "description": " ",
-        "universities": ["This virtual lab on Molecular Fluorescence Spectroscopy Lab is to be used as a supplement to a parallel course on the same topic. It is not designed to be a complete course/tutorial by itself where a student can learn Molecular Fluorescence Spectroscopy Lab just by going through the designed experiments."]
     }
+  ],
+  "targetAudience": {
+    "UG": [
+      "Engineering Chemistry 1st year B. Tech. in Chemical / Materials / IT / Civil / Mech. / Electrical / Textile / Agricultural Engineering",
+      "B. Pharm., Biotech., Biomed. Engg.",
+      "B. Sc. (Hons.) in Chemistry/Phys./Biol./Biophys"
+    ],
+    "PG": [
+      "Chemistry, Chemical/Materials/Biomedical Engg., Biotech & Pharm.",
+      "Ph. D. Beginners"
+    ]
+  },
+  "objective": "This lab aims at demonstrating how to design absorption measurements in a spectrophotometer and how to use absorption spectroscopy as an analytical tool.",
+  "courseAlignment": {
+    "description": " ",
+    "universities": [
+      "This virtual lab on Molecular Fluorescence Spectroscopy Lab is to be used as a supplement to a parallel course on the same topic. It is not designed to be a complete course/tutorial by itself where a student can learn Molecular Fluorescence Spectroscopy Lab just by going through the designed experiments."
+    ]
+  },
+  "exp_name": "Effects of Excimer and Exciplex Formations on Fluorescence Emission",
+  "exp_short_name": "fluorescence-emission",
+  "version": "v0.1.0"
 }

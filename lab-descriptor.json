@@ -49,7 +49,7 @@
       "name": "Effects of Fluorophore Concentration on Fluorescence Spectra: Inner Filter Effects",
       "short-name": "inner-filter-effects",
       "repo": "https://github.com/virtual-labs/exp-inner-filter-effects-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -101,5 +101,5 @@
   },
   "exp_name": "Effects of Excimer and Exciplex Formations on Fluorescence Emission",
   "exp_short_name": "fluorescence-emission",
-  "version": "v0.2.0"
+  "version": "v0.3.0"
 }

@@ -28,7 +28,7 @@
       "name": "Familiarization with Excitation and Emission Spectra, Mirror Image Relation and Stokes Shift",
       "short-name": "stokes-shift",
       "repo": "https://github.com/virtual-labs/exp-stokes-shift-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -101,5 +101,5 @@
   },
   "exp_name": "Effects of Excimer and Exciplex Formations on Fluorescence Emission",
   "exp_short_name": "fluorescence-emission",
-  "version": "v0.3.0"
+  "version": "v0.4.0"
 }

@@ -2,6 +2,7 @@
   "broadArea": {
     "name": "Chemical Sciences",
     "link": "https://www.vlab.co.in/broad-area-chemical-sciences"
+    "code": "CHEMSCI"
   },
   "lab": "Molecular Fluorescence Spectroscopy",
   "deployLab": true,
@@ -98,8 +99,5 @@
     "universities": [
       "This virtual lab on Molecular Fluorescence Spectroscopy Lab is to be used as a supplement to a parallel course on the same topic. It is not designed to be a complete course/tutorial by itself where a student can learn Molecular Fluorescence Spectroscopy Lab just by going through the designed experiments."
     ]
-  },
-  "exp_name": "Effects of Excimer and Exciplex Formations on Fluorescence Emission",
-  "exp_short_name": "fluorescence-emission",
-  "version": "v0.6.0"
+  }
 }

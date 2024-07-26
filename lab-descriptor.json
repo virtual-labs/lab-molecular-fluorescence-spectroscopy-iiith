@@ -5,7 +5,7 @@
     "code": "CHEMSCI"
   },
   "lab": "Molecular Fluorescence Spectroscopy",
-  "lab_display_name" : "Molecular Fluorescence Spectroscopy"
+  "lab_display_name" : "Molecular Fluorescence Spectroscopy",
   "deployLab": true,
   "phase": 2,
   "collegeName": "IIITH",

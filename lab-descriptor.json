@@ -16,7 +16,7 @@
       "name": "Introduction to the fluorescence spectroscopy principle",
       "short-name": "fluorescence-spectroscopy-principle",
       "repo": "https://github.com/virtual-labs/exp-fluorescence-spectroscopy-principle-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
